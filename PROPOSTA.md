@@ -1,25 +1,30 @@
 # :checkered_flag: NOME DO PROJETO
 
-Breve descrição do que o seu projeto faz.
+Será uma plataforma web para conectar clientes a profissionais que trabalham com fabricação, reforma e manutenção de móveis, como marceneiros, estofadores e outros profissionais da área.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+* 494693, Matheus Narcizio Cavalcante de Macedo - Ciência da Computação
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+
+Criar um lugar que facilite a busca por profissionais de móveis e permita que clientes encontrem serviços de acordo com suas necessidades.
 
 ## :eyes: Público-Alvo
-Público-alvo do projeto
+
+* Pessoas atras do seviço prestado
+* Profissionais da área
 
 ## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
+Facilitar o encontro entre clientes e profissionais.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Visitante: pode acessar a área pública, pesquisar profissionais e visualizar seus serviços.
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Cliente: pode se cadastrar, procurar profissionais, solicitar serviços e avaliar os profissionais.
+
+Profissional: pode cadastrar seus serviços, divulgar trabalhos e receber solicitações de clientes.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
